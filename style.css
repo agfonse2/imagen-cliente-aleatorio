@@ -6,7 +6,9 @@ body {
     height: 100vh;
     margin: 0;
     color: aliceblue;
+    background-size: cover;
     background: linear-gradient(to bottom right, #110068, #009f52);
+    background-attachment: fixed;
 }
 
 .container {
@@ -58,4 +60,5 @@ h1
   font-size: 6vw;
   padding-left: 0%;
   margin-bottom: 2%;
+  margin-top: 2%;
 }
